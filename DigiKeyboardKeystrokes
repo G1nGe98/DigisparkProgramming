@@ -1,0 +1,81 @@
+  DigiKeyboard.sendKeyStroke(KEY_ENTER);//Enter
+  DigiKeyboard.sendKeyStroke(KEY_SPACE);//Space
+  DigiKeyboard.sendKeyStroke(KEY_DELETE);//Delete (76)
+
+  DigiKeyboard.sendKeyStroke(MOD_CONTROL_LEFT);//Control
+  DigiKeyboard.sendKeyStroke(MOD_CONTROL_RIGHT);
+  DigiKeyboard.sendKeyStroke(MOD_SHIFT_LEFT);//Shift
+  DigiKeyboard.sendKeyStroke(MOD_SHIFT_RIGHT);
+  DigiKeyboard.sendKeyStroke(MOD_ALT_LEFT);//Alt
+  DigiKeyboard.sendKeyStroke(MOD_ALT_RIGHT);
+
+
+  DigiKeyboard.sendKeyStroke(MOD_GUI_LEFT);
+  DigiKeyboard.sendKeyStroke(MOD_GUI_RIGHT);
+
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_UP);  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_LEFT);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_RIGHT);
+
+  DigiKeyboard.sendKeyStroke(KEY_F1);
+  DigiKeyboard.sendKeyStroke(58); //Key F1
+  DigiKeyboard.sendKeyStroke(KEY_F2);
+  DigiKeyboard.sendKeyStroke(59); // Key F2
+  DigiKeyboard.sendKeyStroke(KEY_F3);
+  DigiKeyboard.sendKeyStroke(60); // Key F3
+  DigiKeyboard.sendKeyStroke(KEY_F4);
+  DigiKeyboard.sendKeyStroke(61); // Key F4
+  DigiKeyboard.sendKeyStroke(KEY_F5);
+  DigiKeyboard.sendKeyStroke(62); // Key F5
+  DigiKeyboard.sendKeyStroke(KEY_F6);
+  DigiKeyboard.sendKeyStroke(63); // Key F6
+  DigiKeyboard.sendKeyStroke(KEY_F7);
+  DigiKeyboard.sendKeyStroke(64); // Key F7
+  DigiKeyboard.sendKeyStroke(KEY_F8);
+  DigiKeyboard.sendKeyStroke(65); // Key F8
+  DigiKeyboard.sendKeyStroke(KEY_F9);
+  DigiKeyboard.sendKeyStroke(66); // Key F9
+  DigiKeyboard.sendKeyStroke(KEY_F10);
+  DigiKeyboard.sendKeyStroke(67); // Key F10
+  DigiKeyboard.sendKeyStroke(KEY_F11);
+  DigiKeyboard.sendKeyStroke(68); // Key F11
+  DigiKeyboard.sendKeyStroke(KEY_F12);
+  DigiKeyboard.sendKeyStroke(69); // Key F12
+
+  DigiKeyboard.sendKeyStroke(4);//a
+  DigiKeyboard.sendKeyStroke(5);//b
+  DigiKeyboard.sendKeyStroke(6);//c
+  DigiKeyboard.sendKeyStroke(7);//d
+  DigiKeyboard.sendKeyStroke(8);//e
+  DigiKeyboard.sendKeyStroke(9);//f
+  DigiKeyboard.sendKeyStroke(10);//g
+  DigiKeyboard.sendKeyStroke(11);//h
+  DigiKeyboard.sendKeyStroke(12);//i
+  DigiKeyboard.sendKeyStroke(13);//j
+  DigiKeyboard.sendKeyStroke(14);//k
+  DigiKeyboard.sendKeyStroke(15);//l
+  DigiKeyboard.sendKeyStroke(16);//m
+  DigiKeyboard.sendKeyStroke(17);//n
+  DigiKeyboard.sendKeyStroke(18);//o
+  DigiKeyboard.sendKeyStroke(19);//p
+  DigiKeyboard.sendKeyStroke(20);//q
+  DigiKeyboard.sendKeyStroke(21);//r
+  DigiKeyboard.sendKeyStroke(22);//s
+  DigiKeyboard.sendKeyStroke(23);//t
+  DigiKeyboard.sendKeyStroke(24);//u
+  DigiKeyboard.sendKeyStroke(25);//v
+  DigiKeyboard.sendKeyStroke(26);//w
+  DigiKeyboard.sendKeyStroke(27);//x
+  DigiKeyboard.sendKeyStroke(28);//y
+  DigiKeyboard.sendKeyStroke(29);//z
+
+  DigiKeyboard.sendKeyStroke(30);//1 (one)
+  DigiKeyboard.sendKeyStroke(31);//2
+  DigiKeyboard.sendKeyStroke(32);//3
+  DigiKeyboard.sendKeyStroke(33);//4
+  DigiKeyboard.sendKeyStroke(34);//5
+  DigiKeyboard.sendKeyStroke(35);//6
+  DigiKeyboard.sendKeyStroke(36);//7
+  DigiKeyboard.sendKeyStroke(37);//8
+  DigiKeyboard.sendKeyStroke(38);//9
+  DigiKeyboard.sendKeyStroke(39);//0
