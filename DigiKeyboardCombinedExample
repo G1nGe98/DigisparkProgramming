@@ -1,0 +1,7 @@
+//Ctrl + C keyboard input example. You can combine keys by using a comma and the keys will be emulate being pressed at the same time.
+
+DigiKeyboard.sendKeyStroke(6, MOD_CONTROL_LEFT); //Ctrl + C
+
+//or
+
+DigiKeyboard.sendKeyStroke(KEY_C, MOD_CONTROL_LEFT); //Ctrl + C
